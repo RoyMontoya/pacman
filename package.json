@@ -16,6 +16,7 @@
   "jspm": {
     "directories": {},
     "dependencies": {
+      "lodash": "npm:lodash@^3.10.1",
       "phaser": "github:photonstorm/phaser@^2.4.3"
     },
     "devDependencies": {
