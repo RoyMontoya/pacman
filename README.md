@@ -1,4 +1,4 @@
-# Seed NS Workshop - Introduction to GameDev with Phaser.io
+# Seed code for the NS Workshop - Introduction to GameDev with Phaser.io
 
 This is the seed code for the NS Workshop.
 
