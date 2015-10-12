@@ -18,6 +18,8 @@ $ vagrant up
 
 This will add the `ubuntu/trusty64` box, if you don't have that box already it will try to download it. After that the provisioning will install all the necesary dependencies.
 
+The first time you `vagrant up` your machine might take a while.
+
 SSH your vagrant machine
 
 ```
