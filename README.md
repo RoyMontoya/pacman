@@ -26,9 +26,10 @@ SSH your vagrant machine
 $ vagrant ssh
 ```
 
-Run gulp
+Go to the project directory and run gulp
 
 ```
+$ cd /vagrant
 $ gulp
 ```
 
@@ -54,9 +55,10 @@ $ npm install
 $ jspm install
 ```
 
-Run gulp
+Go to the project directory and run gulp
 
 ```
+$ cd /vagrant
 $ gulp
 ```
 
