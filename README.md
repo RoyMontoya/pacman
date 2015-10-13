@@ -45,10 +45,13 @@ $ npm install -g gulp
 $ npm install -g jspm
 ```
 
-Clone the repository and go the folder and install dependencies
+Clone the repository.
+
+Go the folder and install dependencies
 
 ```
 $ npm install
+$ jspm install
 ```
 
 Run gulp
